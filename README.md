@@ -8,7 +8,7 @@ It encrypts secret messages with modern cryptographic algorithms and hides them 
 ---
 ## 📖 Documentation & Publication
 View the Complete Documentation here [HylexCrypt-Docs](https://hackmd.io/@hylexcrypt-tu2050/SkRnM51ogl)
-Publication: [![DOI](https://zenodo.org/badge/DOI/10.xxxx/zenodo.xxxxxxx.svg)](https://doi.org/10.xxxx/zenodo.xxxxxxx)
+Publication: [![DOI](https://zenodo.org/badge/DOI/10.xxxx/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.20622278)
 
 ## Authors
 Author Name: DEEPAK P S <br>
